@@ -1,5 +1,6 @@
 {
-"splash":"https://github.com/lxc358/ResourcesPackage/blob/master/IMG/splash_img.jpg?raw=true",
+"splash":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/splash_img.jpg",
+
 "banner": [
 { "image":"菜鸟教程" , "url":"www.runoob.com" }, 
 { "image":"google" , "url":"www.google.com" }, 
