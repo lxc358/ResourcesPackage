@@ -5,11 +5,10 @@
 { "title":"测试2" , "imageUrl":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/testbanner02.png" , "type":"0" , "skipUrl":"www.baidu.com"}, 
 { "title":"测试3" , "imageUrl":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/testbanner03.png" , "type":"0" , "skipUrl":"www.baidu.com"}
 ]
-"menu":[
+"menu": [
 { "name":"美食转一转" , "icon":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/testbanner01.png" , "color":"0"},
 { "name":"天台走一波" , "icon":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/testbanner01.png" , "color":"0"},
 { "name":"出门算一签" , "icon":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/testbanner01.png" , "color":"0"},
 { "name":"此功能暂未开放" , "icon":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/testbanner01.png" , "color":"0"},
-
 ]
 }
