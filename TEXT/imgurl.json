@@ -1,5 +1,6 @@
 {
-"splash":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/splash_img.jpg",
+"splash":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/81096272328052198.jpg",
+"splashicon":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/splash_img.jpg",
 "banner":[{"title":"测试1","imageUrl":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/testbanner01.png" , "type":"0" , "skipUrl":"www.baidu.com"}, 
 {"title":"测试2","imageUrl":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/testbanner02.png" , "type":"0" , "skipUrl":"www.baidu.com"}, 
 {"title":"测试3","imageUrl":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/testbanner03.png" , "type":"0" , "skipUrl":"www.baidu.com"}
