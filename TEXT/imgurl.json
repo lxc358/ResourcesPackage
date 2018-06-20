@@ -5,9 +5,9 @@
 {"title":"测试3","imageUrl":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/testbanner03.png" , "type":"0" , "skipUrl":"www.baidu.com"}
 ],
 "menu":[
-{ "name":"美食转一转" , "icon":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/testbanner01.png" , "color":"0"},
-{ "name":"天台走一波" , "icon":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/testbanner01.png" , "color":"0"},
-{ "name":"出门算一签" , "icon":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/testbanner01.png" , "color":"0"},
-{ "name":"此功能暂未开放" , "icon":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/testbanner01.png" , "color":"0"}
+{ "name":"美食转一转" , "icon":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/menu_icon02.jpg" , "color":"#55CDF5"},
+{ "name":"天台走一波" , "icon":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/menu_icon03.jpg" , "color":"#FAAA3C"},
+{ "name":"出门算一签" , "icon":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/menu_icon04.jpg" , "color":"#83B64C"},
+{ "name":"此功能暂未开放" , "icon":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/menu_icon01.jpg" , "color":"#FFC212"}
 ]
 }
