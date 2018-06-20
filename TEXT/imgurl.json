@@ -1,9 +1,9 @@
 {
 "splash":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/splash_img.jpg",
 "banner": [
-{ "image":"菜鸟教程" , "url":"www.runoob.com" }, 
-{ "image":"google" , "url":"www.google.com" }, 
-{ "image":"微博" , "url":"www.weibo.com" }
+{ "image":"测试1" , "url":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/testbanner01.png" }, 
+{ "image":"测试2" , "url":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/testbanner02.png" }, 
+{ "image":"测试3" , "url":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/testbanner03.png" }
 ]
 
 }
