@@ -1,9 +1,9 @@
 {
 "splash":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/splash_img.jpg",
 "banner": [
-{ "image":"测试1" , "url":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/testbanner01.png" }, 
-{ "image":"测试2" , "url":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/testbanner02.png" }, 
-{ "image":"测试3" , "url":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/testbanner03.png" }
+{ "title":"测试1" , "imageurl":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/testbanner01.png" }, 
+{ "title":"测试2" , "imageurl":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/testbanner02.png" }, 
+{ "title":"测试3" , "imageurl":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/testbanner03.png" }
 ]
 
 }
