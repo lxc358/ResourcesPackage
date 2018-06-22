@@ -1,18 +1,60 @@
 {
-"splash":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/81096272328052198.jpg",
-"splashicon":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/splash_img.jpg",
-"banner":[{"title":"激情世界杯","imageUrl":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/208857200664701299.jpg" , "type":"0" , "skipUrl":"www.baidu.com"}, 
-{"title":"天台or别墅","imageUrl":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/471379414479802604.jpg" , "type":"0" , "skipUrl":"www.baidu.com"}, 
-{"title":"搏一搏","imageUrl":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/672584974117227691.jpg" , "type":"0" , "skipUrl":"www.baidu.com"},
-{"title":"世界杯等你来","imageUrl":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/895646997266103357.jpg" , "type":"0" , "skipUrl":"www.baidu.com"}
-],
-"menu":[{ "name":"美食转一转" , "icon":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/menu_icon02.png" , "color":"#55CDF5"},
-{ "name":"天台走一波" , "icon":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/menu_icon04.png" , "color":"#FB4D45"},
-{ "name":"出门算一签" , "icon":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/menu_icon03.png" , "color":"#83B64C"},
-{ "name":"此功能暂未开放" , "icon":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/menu_icon01.png" , "color":"#FFC212"}
-],
-"ad":[{"adtext":"激情世界杯，等你来抽奖！！！","adurl":"www.baidu.com"}，
-	{"adtext":"古月生，你莫要皮！！！","adurl":"www.baidu.com"}，
-	{"adtext":"别墅or天台，世界杯等你来！！！","adurl":"www.baidu.com"}
-]
+	"splash": "https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/81096272328052198.jpg",
+	"splashicon": "https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/splash_img.jpg",
+	"banner": [{
+			"title": "激情世界杯",
+			"imageUrl": "https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/208857200664701299.jpg",
+			"type": "0",
+			"skipUrl": "www.baidu.com"
+		},
+		{
+			"title": "天台or别墅",
+			"imageUrl": "https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/471379414479802604.jpg",
+			"type": "0",
+			"skipUrl": "www.baidu.com"
+		},
+		{
+			"title": "搏一搏",
+			"imageUrl": "https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/672584974117227691.jpg",
+			"type": "0",
+			"skipUrl": "www.baidu.com"
+		},
+		{
+			"title": "世界杯等你来",
+			"imageUrl": "https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/895646997266103357.jpg",
+			"type": "0",
+			"skipUrl": "www.baidu.com"
+		}
+	],
+	"menu": [{
+			"name": "美食转一转",
+			"icon": "https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/menu_icon02.png",
+			"color": "#55CDF5"
+		},
+		{
+			"name": "天台走一波",
+			"icon": "https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/menu_icon04.png",
+			"color": "#FB4D45"
+		},
+		{
+			"name": "出门算一签",
+			"icon": "https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/menu_icon03.png",
+			"color": "#83B64C"
+		},
+		{
+			"name": "此功能暂未开放",
+			"icon": "https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/menu_icon01.png",
+			"color": "#FFC212"
+		}
+	],
+	"ad": [{
+		"adtext": "激情世界杯，等你来抽奖！！！",
+		"adurl": "www.baidu.com"
+	}, {
+		"adtext": "古月生，你莫要皮！！！",
+		"adurl": "www.baidu.com"
+	}, {
+		"adtext": "别墅or天台，世界杯等你来！！！",
+		"adurl": "www.baidu.com"
+	}]
 }
