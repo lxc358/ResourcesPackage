@@ -11,8 +11,8 @@
 { "name":"出门算一签" , "icon":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/menu_icon03.png" , "color":"#83B64C"},
 { "name":"此功能暂未开放" , "icon":"https://raw.githubusercontent.com/lxc358/ResourcesPackage/master/IMG/menu_icon01.png" , "color":"#FFC212"}
 ],
-"ad":[{"adtext":"激情世界杯，等你来抽奖！！！","adurl":""}，
-	{"adtext":"古月生，你莫要皮！！！","adurl":""}，
-	{"adtext":"别墅or天台，世界杯等你来！！！","adurl":""}
+"ad":[{"adtext":"激情世界杯，等你来抽奖！！！","adurl":"www.baidu.com"}，
+	{"adtext":"古月生，你莫要皮！！！","adurl":"www.baidu.com"}，
+	{"adtext":"别墅or天台，世界杯等你来！！！","adurl":"www.baidu.com"}
 ]
 }
